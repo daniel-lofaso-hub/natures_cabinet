@@ -1,0 +1,16 @@
+.header {
+  height: 800px;
+  background-color: #fff;
+  background-image: url(../images/fulllogo_transparent.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  padding: 30px 80px 40px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+.header__image {
+  position: absolute;
+}
