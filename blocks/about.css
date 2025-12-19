@@ -1,0 +1,30 @@
+.about {
+  background-color: green;
+  font-family: "Lobster", sans-serif;
+}
+
+.about__title {
+  text-align: center;
+  padding: 20px;
+  color: white;
+}
+
+.about__cards {
+  list-style-type: none;
+
+  padding: 0 0 20px;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 413px);
+  justify-content: center;
+  gap: 40px 20px;
+}
+
+.about__card {
+  border-radius: 10px;
+  list-style-type: none;
+  text-decoration: none;
+  max-width: 400px;
+  background-color: white;
+  padding: 0 20px;
+}
