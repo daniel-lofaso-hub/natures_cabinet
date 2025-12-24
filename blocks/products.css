@@ -1,5 +1,6 @@
 .products__title {
   text-align: center;
+  font-family: "Lobster", sans-serif;
 }
 
 .products__list {
@@ -14,4 +15,10 @@
   height: 400px;
   width: 400px;
   border-radius: 10px;
+}
+
+.products__content {
+  font-family: "Lobster", sans-serif;
+  display: flex;
+  justify-content: space-between;
 }
