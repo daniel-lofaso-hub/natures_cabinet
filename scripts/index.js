@@ -2,27 +2,27 @@ const products = [
   {
     name: "Ocean + Salt Soap",
     price: "$7",
-    link: "https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/spots/7-photo-by-griffin-wooldridge-from-pexels.jpg",
+    link: "https://i.ibb.co/7JMSXnjb/Ocean-Salt.jpg",
   },
   {
     name: "Lavender Soap",
     price: "$7",
-    link: "https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/spots/7-photo-by-griffin-wooldridge-from-pexels.jpg",
+    link: "https://i.ibb.co/B26npSwx/Lavender.jpg",
   },
   {
     name: "Oatmeal Soap",
     price: "$7",
-    link: "https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/spots/7-photo-by-griffin-wooldridge-from-pexels.jpg",
+    link: "https://i.ibb.co/BVX7R2cv/Oatmeal.jpg",
   },
   {
     name: "Activated Charcoal & Peppermint Soap",
     price: "$7",
-    link: "https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/spots/7-photo-by-griffin-wooldridge-from-pexels.jpg",
+    link: "https://i.ibb.co/PZR3cGCn/Charcoal-Peppermint.jpg",
   },
   {
     name: "Turmeric & Black Pepper Soap",
     price: "$7",
-    link: "https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/spots/7-photo-by-griffin-wooldridge-from-pexels.jpg",
+    link: "https://i.ibb.co/rfxSg2yL/Turmeric-Acne-Soap.png",
   },
 ];
 
